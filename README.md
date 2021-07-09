@@ -195,3 +195,4 @@ If this is to be run on a local workstation rather than through Azure Automation
 - Options to forward JSON output to a storage account, webhook, or other external location
 - Options for reduced output, e.g. pruning empty arrays and null values
 - Code documentation
+- Parameterize environment lists?
